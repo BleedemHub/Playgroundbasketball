@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/sscriptorium/hookfinder/main/arcade%20basketball'))()
